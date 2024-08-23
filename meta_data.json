@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "technical",
+        "2": "containers",
+        "3": "image",
+        "4": "media"
+    },
+    "description": "convert a list of elements in a group to a masonry layout",
+    "image": "//meta-q.cdn.bubble.io/f1724404311233x760506170435568900/Animation%20-%201724403772808.gif",
+    "license": "open_source",
+    "name": "Masonry",
+    "plugin_instructions": "place the masonry visual element before the target group"
+}

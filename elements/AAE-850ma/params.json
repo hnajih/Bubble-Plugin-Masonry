@@ -1,0 +1,10 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 0,
+        "width": 200
+    },
+    "display": "masonry",
+    "icon": "ion-android-apps"
+}
